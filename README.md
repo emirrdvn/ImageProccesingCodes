@@ -2,7 +2,7 @@
 
 ## 🚀 Proje Hakkında
 Bu proje, su altı görevleri için geliştirilen otonom bir insansız su altı aracıdır (AUV). 
-Ekip olarak geliştirdiğimiz bu dron, su altında çeşitli nesneleri tanıyabilmek için görüntü işleme teknolojilerini kullanır. 
+Ekip olarak geliştirdiğimiz bu dron, su altında çeşitli nesneleri tanıyıp üzerlerine iniş kalkış ve süzülme gibi çeşitli görevler için görüntü işleme ve otonom yönetim teknolojilerini kullanır. 
 
 ## 🔥 Temel Özellikler
 - **Görüntü İşleme:** Şekil, renk ve derinlik algılama özellikleri
